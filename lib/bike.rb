@@ -17,4 +17,5 @@ def break!
 	@broken = true
 	self
 end
+
 end
